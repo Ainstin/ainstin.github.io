@@ -1,5 +1,6 @@
 # Ainstin S Dennis
 
+Personal academic profile of Ainstin S Dennis, nursing educator and NCLEX RN mentor associated with Medline Academy, focused on nursing education, clinical concept training, and international exam preparation.
 Nursing educator and mentor associated with NCLEX RN preparation and international nursing exam guidance.
 
 ## About
