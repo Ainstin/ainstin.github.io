@@ -22,6 +22,15 @@ https://ainstin.in
 • Pharmacology basics  
 • Clinical nursing education
 
+## Educational Resources
+
+- NCLEX RN study materials
+- Clinical judgment training
+- Concept-based nursing education
+- Infection control review notes
+- Community health nursing guidance
+- Pharmacology basics for exam preparation
+
 ## Medline Academy
 
 Medline Academy is an NCLEX RN coaching and nursing education initiative based in Kerala, India.
