@@ -56,3 +56,9 @@ https://www.linkedin.com/in/ainstin-s-dennis-392076390
 
 ORCID  
 https://orcid.org/0009-0000-8353-9164
+
+## Related GitHub Projects
+
+- [Ainstin-NCLEXRN](https://github.com/Ainstin/Ainstin-NCLEXRN)
+- [Medline-Academy](https://github.com/Ainstin/Medline-Academy)
+- [nclex-rn-study-guides](https://github.com/Ainstin/nclex-rn-study-guides)
